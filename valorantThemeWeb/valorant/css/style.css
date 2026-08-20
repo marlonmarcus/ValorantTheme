@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+body{
+    background-image: url('../images/wallpapersden.com_valorant-logo-art_1920x1080.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+hr{
+    background-color: rgb(0, 0, 0);
+    height: 2px;
+    
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    color: rgb(153, 12, 12);
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+}
+
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    color: rgb(153, 12, 12);
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(153, 12, 12);
+    text-align: left;
+    padding: 7px;
+    margin: auto;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 100, 100);
+    font-size: 20px;
+    text-align: justify;
+    justify-content: center;
+    padding: 20px;
+}
+
+.personagem{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 123, 123);
+    font-size: 20px;
+    text-align: justify;
+    justify-content: center;
+    padding: 7px;
+}
+
+img{
+    height: 300px;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+.img{
+    width: fit-content;
+    margin: auto;
+}
+
+img:hover{
+    transform: scale(1.20);
+    transition: 0.5s;
+}
+
+video {
+    padding: 20px;
+    width: 75%;
+    margin: auto;
+    display: block;
+}
+
+.personagens {
+    width: fit-content;
+    margin: auto;
+}
